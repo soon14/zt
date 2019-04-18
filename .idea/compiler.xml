@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
+        <module name="bus-server" />
+        <module name="business-monitor-svc" />
+        <module name="config-server" />
+        <module name="core" />
+        <module name="covergence-adapter-svc" />
+        <module name="eureka-server" />
+        <module name="gateway-admin" />
+        <module name="gateway-web" />
+        <module name="hystrix-dashboard" />
+        <module name="schedule-admin" />
+        <module name="schedule-svc" />
+        <module name="test" />
+        <module name="turbine" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="bus-server" target="1.8" />
+      <module name="business-monitor-svc" target="1.8" />
+      <module name="center" target="1.8" />
+      <module name="common" target="1.5" />
+      <module name="config-server" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="covergence-adapter-svc" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway-admin" target="1.8" />
+      <module name="gateway-web" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="monitor" target="1.8" />
+      <module name="schedule-admin" target="1.8" />
+      <module name="schedule-svc" target="1.8" />
+      <module name="services" target="1.8" />
+      <module name="system" target="1.8" />
+      <module name="test" target="1.8" />
+      <module name="turbine" target="1.8" />
+      <module name="web" target="1.8" />
+      <module name="webapp-parent" target="1.8" />
+      <module name="webapps" target="1.8" />
+      <module name="zt" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin" options="-parameters" />
+      <module name="bus-server" options="-parameters" />
+      <module name="business-monitor-svc" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="covergence-adapter-svc" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="gateway-admin" options="-parameters" />
+      <module name="gateway-web" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
+      <module name="schedule-admin" options="-parameters" />
+      <module name="schedule-svc" options="-parameters" />
+      <module name="turbine" options="-parameters" />
+    </option>
+  </component>
+</project>

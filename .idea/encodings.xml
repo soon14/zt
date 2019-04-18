@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/center/bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/center/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/center/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/gateway-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor/hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor/turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/business-monitor-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/covergence-adapter-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/schedule-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system/gateway-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system/schedule-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapps" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapps/webapp-parent" charset="UTF-8" />
+  </component>
+</project>

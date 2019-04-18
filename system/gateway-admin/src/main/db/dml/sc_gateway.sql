@@ -1,0 +1,1 @@
+INSERT INTO `gateway_routes` VALUES ('1', '1', 'lb://feign-consumer', '[{\"name\":\"Path\",\"args\":{\"pattern\":\"/**\"}}]', '[]', '0', null, 'Y', '2019-03-12 10:20:36', '2019-03-12 10:20:36', 'system', 'system');

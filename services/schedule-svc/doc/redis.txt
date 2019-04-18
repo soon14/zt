@@ -1,0 +1,1 @@
+set zt:task:0  '{"cron":"0/1 * * * * ?","msg":"test","quartzClass":"com.chinaunicom.js.schedule.task.MyTestTask","name":"test","id":0,"group":"test","status":0}'

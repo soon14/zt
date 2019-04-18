@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monitor/admin/admin.iml" filepath="$PROJECT_DIR$/monitor/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center/bus/bus-server.iml" filepath="$PROJECT_DIR$/center/bus/bus-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/business-monitor-svc/business-monitor-svc.iml" filepath="$PROJECT_DIR$/services/business-monitor-svc/business-monitor-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center/center.iml" filepath="$PROJECT_DIR$/center/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center/config/config-server.iml" filepath="$PROJECT_DIR$/center/config/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/core/core.iml" filepath="$PROJECT_DIR$/common/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/covergence-adapter-svc/covergence-adapter-svc.iml" filepath="$PROJECT_DIR$/services/covergence-adapter-svc/covergence-adapter-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center/eureka/eureka-server.iml" filepath="$PROJECT_DIR$/center/eureka/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/gateway-admin/gateway-admin.iml" filepath="$PROJECT_DIR$/system/gateway-admin/gateway-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway-web/gateway-web.iml" filepath="$PROJECT_DIR$/gateway/gateway-web/gateway-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/monitor/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/monitor.iml" filepath="$PROJECT_DIR$/monitor/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/schedule-admin/schedule-admin.iml" filepath="$PROJECT_DIR$/system/schedule-admin/schedule-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/schedule-svc/schedule-svc.iml" filepath="$PROJECT_DIR$/services/schedule-svc/schedule-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/services.iml" filepath="$PROJECT_DIR$/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/system/system.iml" filepath="$PROJECT_DIR$/system/system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/test/test.iml" filepath="$PROJECT_DIR$/common/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/turbine/turbine.iml" filepath="$PROJECT_DIR$/monitor/turbine/turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/web/web.iml" filepath="$PROJECT_DIR$/common/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/webapp-parent/webapp-parent.iml" filepath="$PROJECT_DIR$/webapps/webapp-parent/webapp-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/webapps.iml" filepath="$PROJECT_DIR$/webapps/webapps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zt.iml" filepath="$PROJECT_DIR$/zt.iml" />
+    </modules>
+  </component>
+</project>

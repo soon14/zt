@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: business-monitor-svc
+  cloud:
+    config:
+      name: eureka-business-monitor-svc
+      label: master
+      profile: test
+      enabled: true
+      fail-fast: false
+      retry:
+        max-attempts: 6
+    bus:
+      trace:
+        enabled: true
